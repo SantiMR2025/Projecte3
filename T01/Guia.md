@@ -6,11 +6,7 @@
 
 
 ## Exemples d'Ús i Emplenament Automàtic:
-  # 
-  # 
-  # 
-  # 
+
 
 ## Gestió de Còpies de Seguretat (Backup):
-  # 
-  # 
+  
