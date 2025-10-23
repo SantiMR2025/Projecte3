@@ -19,7 +19,7 @@
 ![img.6](img.png)
 
 ### I per ultim iniciarem sesio
-![img.3](img3.png)
+![img.3](img/img3.png)
 
 ## Generació de Contrasenyes Segures:
 
