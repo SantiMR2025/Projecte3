@@ -1,6 +1,6 @@
 # GUIA
 ## Instal·lació i Configuració Inicial: 
-
+!(img.1)/img/img1.png
 
 ## Generació de Contrasenyes Segures:
 
