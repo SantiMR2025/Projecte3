@@ -22,6 +22,11 @@
 ![img.3](img/img3.png)
 
 ## Generació de Contrasenyes Segures:
+### Clikem en la opcio Mostra --> Gernerador 
+![img.6](img/img6.png)
+
+### Al entrar podrem generar contrasenyes i seleccionar que vols que s'utilitzi per ferla  
+![img.7](img/img7.png)
 
 
 ## Exemples d'Ús i Emplenament Automàtic:
