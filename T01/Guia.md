@@ -33,7 +33,10 @@
 
 
 ## Gestió de Còpies de Seguretat (Backup):
-### 
+### Cliquem en en fitxer i seleccionem la opcio extreure caixa forta
+
+
+### seleccionem el tipus de fitxer per descarregar en aquest cas descarregarem en .json
 
 
 
