@@ -1,7 +1,7 @@
 # DNS
 
 ## 1. Consulta Bàsica de Registre A
-
+![img1.png](img1.png)
 IP de resposta:
 En la sección ANSWER SECTION aparece:
 xtec.cat.    3171    IN    A    83.247.151.214
