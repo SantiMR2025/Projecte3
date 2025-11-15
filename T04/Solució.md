@@ -14,27 +14,24 @@ Instalarem dues maquines virtuals un ubuntus per el servidor i un Zorin per l'us
 
 ### comprobarem que el servei LDAP funcioni i estigui actiu
 ![img.1](img/img03.png)
+![img.1](img/img04.png)
 
-### 
-![img.1](img/img0.png)
+### creem les Unitats Organitzatives per els usuaris
+![img.1](img/img05.png)
+![img.1](img/img06.png)
 
-###
-![img.1](img/img0.png)
+### creem les Unitats Organitzatives per els grups
+![img.1](img/img07.png)
+![img.1](img/img08.png)
 
-###
-![img.1](img/img0.png)
+### comproven que estiguin ben creades
+![img.1](img/img12.png)
 
-###
-![img.1](img/img0.png)
-
-###
-![img.1](img/img0.png)
-
-###
-![img.1](img/img0.png)
+### Anyadim un nou usuari com administrador
+![img.1](img/img11.png)
 
 ###
-![img.1](img/img0.png)
 
-###
-![img.1](img/img0.png)
+
+
+
