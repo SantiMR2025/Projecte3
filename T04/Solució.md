@@ -35,14 +35,67 @@ Instalarem dues maquines virtuals un ubuntus per el servidor i un Zorin per l'us
 ![img.1](img/img14.png)
 
 ## 2. Configurarem el server usan el LDAP MANAGER desde el buscador del nostre ordinador
-### 
+### Etrem posant al buscador la ip mes lan i cliquem en configuracio de lam que esta a dalt a la dreta
 ![img.1](img/img15.png)
 
-###
-![img.1](img/img14.png)
+### Seleccionem de les tres opcions la de Editar perfils del servidor
+![img.1](img/img16.png)
 
-###
-![img.1](img/img14.png)
+### Fiquem la contrasenya que es lam
+![img.1](img/img17.png)
+
+### Configurem tot com esta les imatges
+![img.1](img/img18.png)
+![img.1](img/img19.png)
+![img.1](img/img20.png)
+
+### Anem a la opcio de cuentas que esta adalt a l'esquerra i crearem els grups que seran dos managers i tech
+![img.1](img/img22.png)
+![img.1](img/img23.png)
+![img.1](img/img48.png)
+
+### Ara crearem els usuaris
+![img.1](img/img24.png)
+
+MANAGER01
+![img.1](img/img49.png)
+![img.1](img/img51.png)
+![img.1](img/img26.png)
+![img.1](img/img25.png)
+
+TECH01
+![img.1](img/img27.png)
+![img.1](img/img51.png)
+![img.1](img/img26.png)
+![img.1](img/img25.png)
+
+# 3. cofiguracio del usuari
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
