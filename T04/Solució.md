@@ -69,17 +69,32 @@ TECH01
 ![img.1](img/img26.png)
 ![img.1](img/img25.png)
 
-# 3. cofiguracio del usuari
+## 3. Cofiguracio del usuari
+### Escriurem els dominis en el seguen archiu 
+![img.1](img/img30.png)
+![img.1](img/img29.png)
 
+### Comprovem que els domini estigui be
+![img.1](img/img31.png)
+![img.1](img/img32.png)
 
+### Instalarem i configurarem el servei LDAP
+![img.1](img/img33.png)
+![img.1](img/img34.png)
+![img.1](img/img35.png)
+![img.1](img/img36.png)
+![img.1](img/img37.png)
+![img.1](img/img38.png)
+![img.1](img/img39.png)
+![img.1](img/img40.png)
+![img.1](img/img41.png)
+![img.1](img/img42.png)
 
-
-
-
-
-
-
-
+### I per ultim editarem aquest cuatre arxius 
+![img.1](img/img43.png)
+![img.1](img/img44.png)
+![img.1](img/img45.png)
+![img.1](img/img47.png)
 
 
 
