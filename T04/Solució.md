@@ -30,8 +30,19 @@ Instalarem dues maquines virtuals un ubuntus per el servidor i un Zorin per l'us
 ### Anyadim un nou usuari com administrador
 ![img.1](img/img11.png)
 
-###
+### Instalarem el LDAP MANAGER
+![img.1](img/img09.png)
+![img.1](img/img14.png)
 
+## 2. Configurarem el server usan el LDAP MANAGER desde el buscador del nostre ordinador
+### 
+![img.1](img/img15.png)
+
+###
+![img.1](img/img14.png)
+
+###
+![img.1](img/img14.png)
 
 
 
